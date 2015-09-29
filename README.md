@@ -1,2 +1,2 @@
 # nodeschool-solutions
-Find solutions to nodeschool exercises
+Solutions to nodeschool exercises
